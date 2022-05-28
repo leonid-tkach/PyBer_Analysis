@@ -17,9 +17,9 @@ It's not a surprise that PyBer services are less popular in suburban cities: 2.5
 ### There are no per capita metrics
 Unfortunately, I wasn't provided with any data about the population of these areas. Per capita figures could be less dramatic.
 
-![](analysis/challenge_pyber_summary_fig.png)
+![](analysis/PyBer_summary.png)
 
-![](analysis/challenge_total_fare_fig.png)
+![](analysis/PyBer_fare_summary.png)
 
 ## Summary
 I recommend to PyBer CEO the following:
